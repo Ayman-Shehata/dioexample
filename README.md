@@ -4,4 +4,4 @@ DIO Example with API
 
 ## preview
 
-![preview](preview.png)
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/preview.png?raw=true)
